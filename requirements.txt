@@ -42,7 +42,7 @@ requests==2.2.1
 six==1.10.0
 ufw==0.34-rc-0ubuntu2
 unattended-upgrades==0.1
-urllib3==1.7.1
+urllib3==1.26.5
 usb-creator==0.2.23
 virtualenv==15.1.0
 websocket-client==0.46.0
